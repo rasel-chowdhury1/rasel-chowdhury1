@@ -1,12 +1,11 @@
 ![MasterHead](https://st3.depositphotos.com/1802620/34925/v/1600/depositphotos_349257838-stock-illustration-programming-banner-coding-best-programming.jpg)
-<h1 align="center">Hi 👋, I'm Rasel Chowdhury</h1>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rasel Chowdhury
+=====================================================================================================================================
 <h3 align="center">A passionate full stack developer and Programmer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0XlWQdSfXoVTBQGNvlnf060Nkxdp47TIMAQ&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rasel-chowdhury1&label=Profile%20views&color=0e75b6&style=flat" alt="rasel-chowdhury1" /> </p>
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sonjoy barman
-=====================================================================================================================================
 
 - 🔭 I’m currently working on [Hotel Booking Management](http://joyntuchy.pythonanywhere.com/)
 
