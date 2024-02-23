@@ -34,7 +34,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <a href="https://discord.com/users/RaselCht#3939" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
   <a href="https://www.facebook.com/rasel.chyjoyntu/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> 
   <a href="https://www.github.com/rasel-chowdhury1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
-  <a href="https://www.linkedin.com/in/rasel-chowdhury-4a27a220a/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app&fbclid=IwAR2ceg1m7MXuDD2bi40_k8p34yk2ePtj-Kg2wYvB49_bIOxkjKcJTKUubsU" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+  <a href="https://www.linkedin.com/in/rasel-chowdhury-4a27a220a/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rasel-chowdhury1&show_icons=true&locale=en&layout=compact" alt="rasel-chowdhury1" /></p>
