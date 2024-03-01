@@ -3,19 +3,19 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rasel Chowdhury
 =====================================================================================================================================
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&duration=3000&pause=1000&color=1DBF73&width=600&height=45&lines=Expert+with+Web+Developer;Expert+with+Front-end+Development;Expert+with+Back-end+Development;Expert+with+OpenAI;Expert+with+React+and+Next+js+CMS)](https://git.io/typing-svg)
+<h3 align="center">A passionate full stack developer and Programmer from Bangladesh</h3>
 
-I am a full stack developer with a focus on the MERN stack (MongoDB, Express, React, and Node.js). With experience in both front-end and back-end development, I have a well-rounded skillset that allows me to build and maintain complex web applications from start to finish. In addition to my technical skills, I am a strong problem-solver and always looking for ways to improve my processes and increase efficiency. When I'm not coding, you can find me tinkering with new technologies and participating in hackathons and coding challenges.
+I am a full stack developer with a focus on the MERN stack (MongoDB, Express, React, and Node.js). With experience in both front-end and back-end development, I have a well-rounded skillset that allows me to build and maintain complex web applications from start to finish. In addition to my technical skills, I am a strong problem-solver and always looking for ways to improve my processes and increase efficiency. When I'm not coding, you can find me thinking with new technologies and try to participating in hackerrank and coding challenges.
 
 
-* 🌍  I'm based in Bangladesh
+* 
 * 🖥️  See my portfolio at [Visit my Portfolio](http://pro-sonjoy.web.app/)
 * ✉️  You can contact me at [sonjoybarmon19@gmail.com](mailto:sonjoybarmon19@gmail.com)
 * 🧠  I'm learning I'm currently learning everything I can about JavaScript and web development. I'm also passionate about contributing to open source projects.
 * 🤝  I'm open to collaborating on I'm also open to collaborating on projects and ideas, so feel free to reach out to me if you have something interesting in mind.
 
 
-<h3 align="center">A passionate full stack developer and Programmer from Bangladesh</h3>
+
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0XlWQdSfXoVTBQGNvlnf060Nkxdp47TIMAQ&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rasel-chowdhury1&label=Profile%20views&color=0e75b6&style=flat" alt="rasel-chowdhury1" /> </p>
@@ -30,6 +30,7 @@ I am a full stack developer with a focus on the MERN stack (MongoDB, Express, Re
 - 💬 Ask me about **React project and Javascript-CoreConcept**
 
 - 📫 How to reach me **chowdhuryrasel040@gmail.com**
+- 🌍  I'm based in Bangladesh**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
