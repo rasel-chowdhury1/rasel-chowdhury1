@@ -22,8 +22,7 @@ I am a full stack developer with a focus on the MERN stack (MongoDB, Express, Re
 
 - 📫 How to reach me **chowdhuryrasel040@gmail.com**
 - 🌍  I'm based in Bangladesh
-
-<h3 align="left">Connect with me:</h3>
+  
 <p align="left">
 </p>
 
