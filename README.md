@@ -9,11 +9,6 @@ I am a full stack developer with a focus on the MERN stack (MongoDB, Express, Re
 
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0XlWQdSfXoVTBQGNvlnf060Nkxdp47TIMAQ&usqp=CAU">
 
-<h3 align="center">A passionate full stack developer and Programmer from Bangladesh</h3>
-
-I am a full stack developer with a focus on the MERN stack (MongoDB, Express, React, and Node.js). With experience in both front-end and back-end development, I have a well-rounded skillset that allows me to build and maintain complex web applications from start to finish. In addition to my technical skills, I am a strong problem-solver and always looking for ways to improve my processes and increase efficiency. When I'm not coding, you can find me thinking with new technologies and try to participating in hackerrank and coding challenges.
-
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0XlWQdSfXoVTBQGNvlnf060Nkxdp47TIMAQ&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rasel-chowdhury1&label=Profile%20views&color=0e75b6&style=flat" alt="rasel-chowdhury1" /> </p>
 
