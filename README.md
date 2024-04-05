@@ -3,7 +3,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rasel Chowdhury
 =====================================================================================================================================
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&duration=3000&pause=1000&color=1DBF73&width=600&height=45&lines=Expert+with+Web+Developer;Expert+with+Front-end+Development;Expert+with+Back-end+Development;Expert+with+OpenAI;Expert+with+React+and+Next+js+CMS)](https://git.io/typing-svg)
+
 
 <h3 align="center">A passionate full stack developer and Programmer from Bangladesh</h3>
 
