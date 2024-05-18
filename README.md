@@ -43,6 +43,10 @@ I am a full stack developer with a focus on the MERN stack (MongoDB, Express, Re
   <a href="https://www.facebook.com/rasel.chyjoyntu/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> 
   <a href="https://www.github.com/rasel-chowdhury1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
   <a href="https://www.linkedin.com/in/rasel-chowdhury-4a27a220a/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+
+  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rasel Chowdhury
+=====================================================================================================================================
+
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rasel-chowdhury1&show_icons=true&locale=en&layout=compact" alt="rasel-chowdhury1" /></p>
