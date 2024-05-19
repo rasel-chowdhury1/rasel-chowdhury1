@@ -53,3 +53,6 @@ I am a full stack developer with a focus on the MERN stack (MongoDB, Express, Re
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rasel-chowdhury1&show_icons=true&locale=en" alt="rasel-chowdhury1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rasel-chowdhury1&" alt="rasel-chowdhury1" /></p>
+
+  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rasel Chowdhury
+=====================================================================================================================================
