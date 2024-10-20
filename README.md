@@ -17,7 +17,7 @@ I am a full stack developer with a focus on the MERN stack (MongoDB, Express, Re
 
 - 🔭 I’m currently working on [Hotel Booking Management](http://joyntuchy.pythonanywhere.com/)
 
-- 🌱 I’m currently learning and practiceing **Typescript**
+- 🌱 I’m currently learning and practiceing **Next JS**
 
 - 👯 I’m looking to collaborate on **Ecommerce website**
 
