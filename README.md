@@ -15,11 +15,11 @@ I am a full stack developer with a focus on the MERN stack (MongoDB, Express, Re
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rasel-chowdhury1&label=Profile%20views&color=0e75b6&style=flat" alt="rasel-chowdhury1" /> </p>
 
 
-- 🔭 I’m currently working on [TechMaster Tips like social media](https://tech-tips-trick-hub-frontend-nu.vercel.app/)
+- 🔭 I’m currently working on [Staff Secure AI](https://staffsecure.ai/)
 
-- 🌱 I’m currently learning and practiceing **Next JS**
+- 🌱 I’m currently learning and practiceing **System Design**
 
-- 👯 I’m looking to collaborate on **Ecommerce website**
+- 👯 I’m looking to collaborate on **Ride Share App**
 
 - 💬 Ask me about **React project and Javascript-CoreConcept**
 
